@@ -6,5 +6,8 @@ What it does print out are the gray codes.
 
 ## Compilation and Running
 Standard c++ compilation:
+
 g++ -Wall main.cpp -o main
+
+Running:
 ./main
